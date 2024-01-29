@@ -1,0 +1,38 @@
+body{
+    background-color: mediumaquamarine;
+}
+
+div{
+    width: 50%;
+    height: 45%;
+    padding: 10%;
+    padding-right: 20%; 
+    margin: auto; 
+    color: seashell;
+    font-size: 20;
+    background-color: orangered;
+    
+}
+
+h1{
+    color: white;
+}
+
+#enviar{
+    color: red;
+    font-size: 20;
+    background-color: palegreen;
+}
+
+#limpar{
+    color: red;
+    font-size: 20;
+    background-color: palegreen;
+}
+
+p{
+    color: red;
+    font-size: 30;
+    background-color: ;  
+    text-align: center;
+}
